@@ -1,4 +1,4 @@
-#!pip install streamlit matplotlib finance-datareader beautifulsoup4
+!pip install streamlit matplotlib finance-datareader beautifulsoup4
 # 원하는 기업 : 삼성전자
 # 조회기간 : (2023-01-01 ~ 2023-08-14)
 
